@@ -1,0 +1,4 @@
+//convert base-10 number to base-2 number
+let decimalNum = 99;
+let binaryNum = decimalNum.toString(2);
+console.log(binaryNum);
