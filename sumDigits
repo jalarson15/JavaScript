@@ -1,3 +1,7 @@
+/**
+* adds each digit given as a whole number
+* ex -> sumDigits(12345) => 1+2+3+4+5 = 15
+*/
 function sumDigits(n)
 {
   let initNum = n;
